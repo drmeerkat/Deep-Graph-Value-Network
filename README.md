@@ -1,5 +1,4 @@
 # Deep-Graph-Value-Network
--------
 
 This is the python implementation of DeepGV. See [here](https://arxiv.org/abs/2008.03229) for the full paper.
 
