@@ -1,4 +1,5 @@
 # Deep-Graph-Value-Network
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
 This is the python implementation of DeepGV. See [here](https://arxiv.org/abs/2008.03229) for the full paper.
 
@@ -22,3 +23,7 @@ Please use this bibtext if you want to cite this repository in your publication:
   howpublished = {\url{https://https://github.com/drmeerkat/Deep-Graph-Value-Network}},
 }
 ```
+
+## License
+
+DeepGV uses Apache License 2.0.
